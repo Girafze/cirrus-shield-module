@@ -19,5 +19,4 @@
 #
 board: [ "nice_nano_v2" ]
 shield: [ "cirrus_left", "cirrus_right" ]
-
 ---

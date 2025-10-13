@@ -1,0 +1,12 @@
+file_format: "1"
+id: cirrus
+name: Cirrus
+type: shield
+url: https://github.com/Girafze/cirrus-shield-module
+requires: [nice!_nano]
+exposes: []
+features:
+  - keys
+siblings:
+  - cirrus_left
+  - cirrus_right

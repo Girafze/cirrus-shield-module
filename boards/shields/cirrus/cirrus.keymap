@@ -22,7 +22,7 @@
    &none       &kp GRAVE    &kp TAB      &kp Q    &kp W &kp E &kp R    &kp T                        &kp Y      &kp U       &kp I     &kp O     &kp P      &kp LBKT    &kp RBKT    &none 
    &none       &kp GLOBE    &kp CAPS     &kp A    &kp S &kp D &kp F    &kp G                        &kp H      &kp J       &kp K     &kp L     &kp SEMI   &kp SQT     &kp ENTER   &none 
    &kp LSHIFT  &none        &none        &kp Z    &kp X &kp C &kp V    &kp B                        &kp N      &kp M       &kp COMMA &kp DOT   &kp UP     &none       &none       &kp FSLH 
-   &none       &none        &kp LCTRL    &kp LALT &mo 2 &mo1  &kp RCMD &kp SPACE                    &kp SPACE  &kp LCMD    &mo1      &kp LEFT  &kp DOWN   &kp RIGHT   &none       &none
+   &none       &none        &kp LCTRL    &kp LALT &mo 2 &mo 1  &kp RCMD &kp SPACE                    &kp SPACE  &kp LCMD    &mo 1      &kp LEFT  &kp DOWN   &kp RIGHT   &none       &none
    
 
                         >;
